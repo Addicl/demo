@@ -1,5 +1,5 @@
 # demo
-
+自定义录音播放器，适用于谷歌浏览器，实现录音播放，进度条拖拽
 ## Project setup
 ```
 npm install
